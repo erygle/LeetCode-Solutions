@@ -13,3 +13,14 @@ To clone the repository to your local environment, follow these steps:
 ```bash
 git clone https://github.com/erygle/LeetCode-Solutions.git
 cd LeetCode-Solutions
+```
+
+## Usage
+
+To run the code, follow these steps:
+
+```bash
+cd PROBLEM_DIRECTORY
+g++ -o solution solution.cpp
+./solution
+```
